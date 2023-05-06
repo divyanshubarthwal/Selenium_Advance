@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="10" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T17:19:16 IST" name="Suite" finished-at="2023-05-05T17:19:16 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T17:19:16 IST" name="Test" finished-at="2023-05-05T17:19:16 IST" duration-ms="39">
+      <class name="TestNG.day4">
+        <test-method signature="Login()[pri:0, instance:TestNG.day4@35ef1869]" started-at="2023-05-05T17:19:16 IST" name="Login" finished-at="2023-05-05T17:19:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login2()[pri:0, instance:TestNG.day4@35ef1869]" started-at="2023-05-05T17:19:16 IST" name="Login2" finished-at="2023-05-05T17:19:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+        <test-method signature="Login3()[pri:0, instance:TestNG.day4@35ef1869]" started-at="2023-05-05T17:19:16 IST" name="Login3" finished-at="2023-05-05T17:19:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login3 -->
+      </class> <!-- TestNG.day4 -->
+      <class name="TestNG.day2">
+        <test-method signature="Login()[pri:0, instance:TestNG.day2@3c407114]" started-at="2023-05-05T17:19:16 IST" name="Login" finished-at="2023-05-05T17:19:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Login2()[pri:0, instance:TestNG.day2@3c407114]" started-at="2023-05-05T17:19:16 IST" name="Login2" finished-at="2023-05-05T17:19:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login2 -->
+      </class> <!-- TestNG.day2 -->
+      <class name="TestNG.day1">
+        <test-method signature="daym()[pri:0, instance:TestNG.day1@3911c2a7]" started-at="2023-05-05T17:19:16 IST" name="daym" finished-at="2023-05-05T17:19:16 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- daym -->
+      </class> <!-- TestNG.day1 -->
+    </test> <!-- Test -->
+    <test started-at="2023-05-05T17:19:16 IST" name="MobileTest" finished-at="2023-05-05T17:19:16 IST" duration-ms="0">
+    </test> <!-- MobileTest -->
+  </suite> <!-- Suite -->
+</testng-results>

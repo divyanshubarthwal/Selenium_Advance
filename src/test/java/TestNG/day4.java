@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class day4 {
 	
-	@Test
+	@Test(enabled=false)
 	public void Login() {
 		System.out.println("day4 method 1");
 	}
@@ -17,7 +17,7 @@ public class day4 {
 	public void before() {
 		System.out.println("Before method in day 4");
 	}
-	@Test
+	@Test(timeOut=3000)
 	public void Login3() {
 		System.out.println("day4 method 3");
 	}

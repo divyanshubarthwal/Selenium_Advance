@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test  name="Test">
+  <parameter name="URL" value="www.facebook.com"></parameter>
+   <parameter name="user" value="divyanshu"></parameter>
     <classes>
      
       <class name="TestNG.day1">
@@ -17,6 +19,7 @@
   
   
   <test name="MobileTest">
+  <parameter name="URL" value="www.amazon.com"></parameter>
   <classes>
   <class name="TestNG.day3">
   <methods>

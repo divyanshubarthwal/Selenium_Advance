@@ -9,7 +9,7 @@ public class TestNG_Introduction {
 	public void demo() throws InterruptedException
 	{
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://rahulshettyacademy.com/angularpractice/");
+		driver.get("https://www.youtube.com/watch?v=PoyQN0J-zac&list=PLzTvAeLiW8AcGgHD9ehSYlhHndlj95IKu&index=6");
 		Thread.sleep(1000);
 		driver.quit();
 		
